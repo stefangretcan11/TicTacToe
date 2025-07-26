@@ -1,0 +1,30 @@
+.button {
+    -fx-font-size: 60px ;
+    -fx-text-fill: red;
+    -fx-font-family: "Comic Sans MS";
+    -fx-background-color:white;
+
+}
+#restart{
+    -fx-font-size: 20px;
+    -fx-text-fill: black;
+    -fx-margin-right: 50px;
+}
+#exit{
+    -fx-font-size: 20px;
+    -fx-text-fill: black;
+    -fx-margin-left: 50px;
+}
+
+.button:focused {
+    -fx-effect: none;
+}
+.label{
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 30px;
+    -fx-alignment: center;
+
+ }
+.root{
+
+}

@@ -1,0 +1,21 @@
+.button{
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+    -fx-font-family: "Comic Sans MS";
+    -fx-background-color: black;
+
+}
+#btn2{
+    -fx-margin-left: 50px;
+}
+#btn1{
+    -fx-margin-right: 50px;
+
+}
+
+.root {
+    -fx-background-image: url("background.jpg");
+    -fx-background-size: cover; /* sau contain */
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
